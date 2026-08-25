@@ -1,0 +1,5 @@
+# Служебное/временное
+*.log
+*.tmp
+MIGRATION-scan.txt
+.backup_local/
