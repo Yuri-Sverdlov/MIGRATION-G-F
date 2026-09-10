@@ -59,3 +59,9 @@
 - F: цел (7/7); защищённые папки не тронуты. Commit push: `107963b` (в REPORT кодера ошибочно `44471a1`).
 - Архив: `tasks/done/006-delete-g-originals/`. DELETE-AFTER-REBOOT закрыт (10/10).
 - Следующий шаг: TASK-07 (`_MY_PROGRAMMING_3`).
+
+## 2026-09-10 — TASK-07 принят (архитектор)
+- Кодер: robocopy OK, 83755=83755 (robocopy); пути 34 файла; scan 0 hits (неполный).
+- Архитектор: match=True (83755); доделан `config.json` (JSON-escaped ref_audio).
+- Оригинал G: не удалён. Архив: `tasks/done/007-my-programming-3/`.
+- Следующий шаг: удалить G:\ `_MY_PROGRAMMING_3`; TASK-08 финал.
