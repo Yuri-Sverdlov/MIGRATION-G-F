@@ -4,7 +4,7 @@
 
 **Репозиторий:** [github.com/Yuri-Sverdlov/MIGRATION-G-F](https://github.com/Yuri-Sverdlov/MIGRATION-G-F)
 
-## Статус (2026-08-25)
+## Статус (2026-09-10)
 
 | Закрыто | Папок | TASK |
 |---------|------:|------|
@@ -13,10 +13,11 @@
 | Партия 2b | 2 | TASK-03 |
 | Партия 4 | 1 (~101k файлов) | TASK-04 |
 | Партия 5 (ComfyUI) | 3 (~101k файлов) | TASK-05 |
+| Удаление G: | 10 оригиналов | TASK-06 |
 
-**Осталось:** `_MY_PROGRAMMING_3`, корневые файлы `G:\AI\*`, перенос этого репозитория.
+**Осталось на G:\AI\:** `_MY_PROGRAMMING_3`, корневые файлы, этот репозиторий.
 
-**Хвост:** 10 оригиналов на G: ждут удаления после reboot — см. [`DELETE-AFTER-REBOOT.md`](DELETE-AFTER-REBOOT.md).
+**DELETE-AFTER-REBOOT:** закрыт (10/10, 2026-09-10) — см. [`DELETE-AFTER-REBOOT.md`](DELETE-AFTER-REBOOT.md).
 
 ## Как устроен проект
 

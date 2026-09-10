@@ -53,3 +53,9 @@
 - Создан `LESSONS-LEARNED.md` — грабли, решения, правила на будущее.
 - Создан `README.md`; обновлены `AGENTS.md`, `CONTEXT.md`.
 - Push в https://github.com/Yuri-Sverdlov/MIGRATION-G-F (архив tasks/done/ 001–005).
+
+## 2026-09-10 — TASK-06 принят (архитектор)
+- Кодер: 7/7 оригиналов на G: удалены; 8× `nul` через `cmd /c del "\\?\..."`; 3 папки после stop GoogleDriveFS.
+- F: цел (7/7); защищённые папки не тронуты. Commit push: `107963b` (в REPORT кодера ошибочно `44471a1`).
+- Архив: `tasks/done/006-delete-g-originals/`. DELETE-AFTER-REBOOT закрыт (10/10).
+- Следующий шаг: TASK-07 (`_MY_PROGRAMMING_3`).

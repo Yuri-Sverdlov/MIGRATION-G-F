@@ -3,3 +3,11 @@
 *.tmp
 MIGRATION-scan.txt
 .backup_local/
+
+# Временные скрипты кодера (не коммитить)
+tasks/*.ps1
+tasks/step*.txt
+tasks/dl_*.ps1
+tasks/find_*.ps1
+tasks/kill_*.ps1
+tasks/run_*.ps1
