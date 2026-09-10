@@ -168,5 +168,5 @@ MIGRATION-G-F/
 ## 6. Ссылки
 
 - Репозиторий: https://github.com/Yuri-Sverdlov/MIGRATION-G-F
-- Общие правила среды: `G:\AI\DEV-NOTES.md`
+- Общие правила среды: `F:\DEV-NOTES.md`
 - Защита: `DEV-NOTES.md` §15

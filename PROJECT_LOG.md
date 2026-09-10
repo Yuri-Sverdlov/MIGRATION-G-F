@@ -65,3 +65,7 @@
 - Архитектор: match=True (83755); доделан `config.json` (JSON-escaped ref_audio).
 - Оригинал G: не удалён. Архив: `tasks/done/007-my-programming-3/`.
 - Следующий шаг: удалить G:\ `_MY_PROGRAMMING_3`; TASK-08 финал.
+
+## 2026-09-10 — TASK-08 выдан (архитектор)
+- Финал: удаление G:\ `_MY_PROGRAMMING_3`, корневые файлы G:\AI -> F:\, repo на F:\MIGRATION-G-F.
+- 5 файлов отсутствуют на F: (DEV-NOTES-BACKLOG + 4 docx/jpg); ~29 уже совпадают по размеру.

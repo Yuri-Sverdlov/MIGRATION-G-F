@@ -53,4 +53,4 @@ robocopy G:\AI\FOLDER F:\FOLDER /E /COPY:DAT /R:1 /W:1 [/MT:16]
 
 ## Безопасность
 
-Действуют хуки Cursor: агент **не может** массово удалять файлы (`Remove-Item -Recurse`, `format` и т.д.). Удаление больших оригиналов — только пользователь (Shift+Delete). См. `G:\AI\DEV-NOTES.md` §15.
+Действуют хуки Cursor: агент **не может** массово удалять файлы (`Remove-Item -Recurse`, `format` и т.д.). Удаление больших оригиналов — только пользователь (Shift+Delete). См. `F:\DEV-NOTES.md` §15.
