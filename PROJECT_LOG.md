@@ -69,3 +69,10 @@
 ## 2026-09-10 — TASK-08 выдан (архитектор)
 - Финал: удаление G:\ `_MY_PROGRAMMING_3`, корневые файлы G:\AI -> F:\, repo на F:\MIGRATION-G-F.
 - 5 файлов отсутствуют на F: (DEV-NOTES-BACKLOG + 4 docx/jpg); ~29 уже совпадают по размеру.
+
+## 2026-09-10 — TASK-08 принят (архитектор)
+- Кодер: фазы A–E; match 83755=83755; 5 корневых файлов скопировано; 4 path-fix; repo на F:; push `fe774b9` + `93a549f`.
+- Архитектор: перепроверка OK; оговорка — пустая оболочка `STT-WHISPER-LOCAL` на G: (0 файлов, reboot).
+- Git HEAD `93a549f`, synced с origin. Рабочий repo: `F:\MIGRATION-G-F`.
+- Архив: `tasks/done/008-final-migration/`.
+- **Миграция G:\AI\ -> F:\ завершена.** Остатки G: — Shift+Delete пользователем.

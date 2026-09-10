@@ -28,15 +28,19 @@ MonteCarloOptimizationKimi, OBSIDIAN-KNOWLEDGE-BASE, TOMATO-2-TIMERS, COURSES,
 OLLAMA-LMSTUDIO, _NEW-PROJECT-TEMPLAT, MODELS-PROPERTY, _MY_PROGRAMMING_IVRIT,
 COMFYUI-SYNCHRONIZATION, MODEL-SORT.
 
-## Не удалять
+## TASK-08 — остатки G: (2026-09-10, после финала)
 
-| Путь | Причина |
-|------|---------|
-| `F:\MIGRATION-G-F` | репозиторий проекта миграции |
-| `G:\AI\_MY_PROGRAMMING_3` | ещё не мигрирован |
-| `G:\AI\*` (файлы в корне) | финальная партия |
+Миграция завершена. На G: остались **дубликаты** — удалить пользователем (Shift+Delete, лучше после reboot):
 
-## Проверка
+| Путь | Состояние |
+|------|-----------|
+| `G:\AI\_MY_PROGRAMMING_3` | содержимое удалено; пустая оболочка `STT-WHISPER-LOCAL` (0 файлов) |
+| `G:\AI\MIGRATION-G-F` | устаревшая копия repo; рабочая — `F:\MIGRATION-G-F` |
+| `G:\AI\*` (корневые файлы) | дубликаты; рабочие — на `F:\` |
+
+**Не удалять:** `F:\` (весь рабочий том).
+
+## Проверка (TASK-06)
 
 Все 7 папок TASK-06 проверены: `Test-Path` -> False для G:, True для F:.
 Все 3 папки, удалённые пользователем ранее, также отсутствуют на G:.

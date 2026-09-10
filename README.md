@@ -15,10 +15,13 @@
 | Партия 5 (ComfyUI) | 3 (~101k файлов) | TASK-05 |
 | Удаление G: | 10 оригиналов | TASK-06 |
 | Партия 6 | 1 (~84k файлов) | TASK-07 |
+| Финал | корневые файлы + repo | TASK-08 |
 
-**Осталось на G:\AI\:** оригинал `_MY_PROGRAMMING_3` (удалить после приёмки), корневые файлы, этот репозиторий.
+**Миграция завершена (2026-09-10).** Рабочая копия: **`F:\MIGRATION-G-F`**.
 
-**DELETE-AFTER-REBOOT:** закрыт (10/10, 2026-09-10) — см. [`DELETE-AFTER-REBOOT.md`](DELETE-AFTER-REBOOT.md).
+**Остатки на G:\AI\** (дубликаты, Shift+Delete после reboot): пустая оболочка `_MY_PROGRAMMING_3`, `MIGRATION-G-F`, корневые файлы — см. [`DELETE-AFTER-REBOOT.md`](DELETE-AFTER-REBOOT.md) §TASK-08.
+
+**DELETE-AFTER-REBOOT (партии 1–5):** закрыт (10/10, 2026-09-10).
 
 ## Как устроен проект
 
