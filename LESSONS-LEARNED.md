@@ -73,11 +73,17 @@
 ### 2.7. Блокировка файлов при удалении
 
 Папки на G: часто **не удаляются** пока работает Hermes/кодер/python/node/Ollama.
+**TASK-06 (2026-09-10):** после закрытия Проводников папки остались заблокированы —
+виновник **GoogleDriveFS.exe** (Google Drive File Stream) держал handle на пустые папки.
+Диагностика: `handle64.exe` (Sysinternals, `https://live.sysinternals.com/handle64.exe`)
+показывает процесс-владелец handle. Лечение: `Stop-Process -Id <pid> -Force` +
+`cmd /c rd /s /q "\\?\путь"`.
 
 **Решение:**
 1. Закрыть терминал кодера / Hermes.
 2. Shift+Delete в Проводнике.
 3. Если не помогает — **reboot**, затем удаление **до** запуска агента.
+4. Проверить `handle64.exe`: возможно, handle держит GoogleDriveFS (синк `G:\AI\`).
 
 Список: `DELETE-AFTER-REBOOT.md` (на 2026-08-25 — **10 папок**).
 
